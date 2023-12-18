@@ -8,6 +8,7 @@ Neste arquivo Power BI de acordo com meu aprendizado na DSA, contém:
 - Volume Total ao Longo do Tempo com Linha de Tendência;
 - Volume Total Negociado;
 - Tabela de Valores Médios Negociados por Mês;
+- Filtros para Ano e Mês;
 - Total de Dias de Negociação.
 
-Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua issue 😉
+Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua issue. 😉
